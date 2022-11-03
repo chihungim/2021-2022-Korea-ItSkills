@@ -1,0 +1,11 @@
+s_No	s_Id	s_Pattern	s_Name	s_Addr
+1	seller1	578491	연수점	59
+2	seller2	219657	청라점	4
+3	seller3	384259	논현점	50
+4	seller4	314729	만수점	46
+5	seller5	135842	구월점	43
+6	seller6	123957	도화점	18
+7	seller7	647912	주안점	68
+8	seller8	876925	문학점	12
+9	seller9	592863	송도점	54
+10	seller10	513726	동춘점	14

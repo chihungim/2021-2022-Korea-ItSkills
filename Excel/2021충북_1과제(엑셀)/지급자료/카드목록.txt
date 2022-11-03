@@ -1,0 +1,28 @@
+번호	이름	내용	타입	카드 혜택	할부이자	해외 제휴 브랜드	제휴 등급	 연회비 
+1	Chase Freedom Unlimited™	모든 구매에 대해서 3% 캐시백 및 1% 포인트 적립	할인/적립	1,2	3.90%	1,2,3	4	 0 
+2	Chase Freedom Flex™	모든 구매에 대해서 2% 캐시백 및 1% 포인트 적립	할인/적립	3,4	4.90%	1,2,3	5	 0 
+3	Chase Freedom Student	모든 구매에 대해서 2% 캐시백 및 1% 포인트 적립	할인/적립	5,6	2.90%	1,2,3	5	 0 
+4	Chase Sapphire Preferred	외식, 여행 및 포인트 적립 서비스	적립	7	2.90%	1,3,5	5	 95,000 
+5	Chase Sapphire Reserve	프리미엄 수준의 여행 및 외식 리워드 제공	적립	8,9	3.90%	1,2,4,5	3	 550,000 
+6	Southwest Rapid Rewards Priority	여행에 사용한 금액 0.3% 추가 적립 제공	적립	7,10	5.90%	1,6	4	 149,000 
+7	Southwest Rapid Rewards Plus	여행에 사용한 금액 0.1% 추가 적립 제공	적립	7,11	4.90%	1,6	5	 79,000 
+8	Southwest Rapid Rewards Premier	여행에 사용한 금액 0.2% 추가 적립 제공	적립	7,12	3.90%	1,6	4	 129,000 
+9	United Club Infinite	프리미엄 여행 혜택, 여행 사용시 최대 5% 할인 제공	할인	13	2.90%	1,2	3	 790,000 
+10	United Gateway Mileage Plus	여행을 시작하는 당신에게, 여행에 사용한 금액 0.1% 적립	적립	14	3.90%	1,2,3,4	5	 0 
+11	UNITED™ EXPLORER	호텔, 여행에 최대 3% 할인 제공	할인	15	3.50%	1,4,5	4	 119,000 
+12	British Airways Visa Signature®	호텔 숙박과 여행에 대한 3% 할인, 1% 적립 제공	할인/적립	16,17,18,19	2.90%	1	4	 95,000 
+13	Aer Lingus Visa Signature®	호텔 숙박과 여행에 대한 3% 할인, 1% 적립 제공	할인/적립	16,17,18,19	3.90%	1	4	 95,000 
+14	lberia Visa Signature®	쇼핑과 여행에 대한 3% 할인, 1% 적립 제공	할인/적립	16,17	4.90%	1	4	 95,000 
+15	Marriott Bonvoy Boundless™	호텔 숙박 최대 10% 적립	적립	20	3.90%	1,2,4	4	 95,000 
+16	Marriott Bonvoy Bold™	호텔 숙박 최대 1% 할인	할인	21	2.90%	1,3,5,6	5	 0 
+17	World of Hyatt 	세계 럭셔리 호텔 5% 할인 제공	할인	13	3.90%	1,2,3,6	4	 95,000 
+18	Disney Premier Visa	디즈니 세계 여행, 최대 1% 청구 할인	할인	21	4.90%	1	4	 49,000 
+19	Disney Visa	디즈니 세계 여행, 숙박 청구 1% 할인	할인	22	3.90%	1	4	 0 
+20	IHG Rewards Club Premier	IHG 프리미엄 클럽, 숙박 3% 청구 할인	할인	18	2.90%	1,2,3,6	4	 89,000 
+21	IHG Rewards Club Traveler	IHG 여행 클럽, 여행과 숙박 청구 1% 할인	할인	21	3.50%	1,6	5	 0 
+22	Starbucks Rewards Visa	스타벅스 리워드, 1% 적립 및 청구 할인	할인/적립	23,24	5.90%	1	5	 49,000 
+23	Amazon Prime Rewards Visa Signature	모든 쇼핑에 대한 5% 할인 제공 및 연회비 없음	할인	25	2.90%	1	5	 0 
+24	Ink Business Unlimited	모든 항목 1.5% 캐시백	할인	26	3.90%	4	5	 0 
+25	Ink Business Cash	모든 항목 1.5% 적립	적립	27	3.90%	6	5	 0 
+26	Ink Business Preferred	비즈니스 클럽, 적립 1%	적립	28	2.90%	1,2,3,4,5	1	 790,000 
+27	Southwest Rapid Rewards Business	모든 항목 4% 적립, 교통, 외식 20% 청구 할인	할인/적립	29,30,31	1.90%	2,3,4	1	 1,790,000 

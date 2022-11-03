@@ -1,0 +1,11 @@
+회원ID	PW	성명	회원상태
+user01	user01#	김시은	
+user02	user02#	김이준	
+user03	user03#	김지아	
+user04	user04#	김하율	
+user05	user05#	나정인	
+user06	user06#	이수연	
+user07	user07#	박민준	
+user08	user08#	박지은	
+user09	user09#	성시우	
+user10	user10#	신도윤	

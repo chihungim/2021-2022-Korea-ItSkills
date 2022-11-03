@@ -1,0 +1,9 @@
+NO	EMAIL	PHONE	PW	NAME	MAP
+1	user01@outlook.com	010-1719-4862	user0101!	나일론	1
+2	user02@outlook.kr	010-6660-5926	user0102!	박복자	18
+3	user03@daum.net	010-6875-2625	user0103!	박철혜	193
+4	user04@daum.net	010-8423-1293	user0104!	박근혜	98
+5	user05@gmail.com	010-4503-1787	user0105!	이은주	37
+6	user06@gmail.com	010-6228-3140	user0106!	박미숙	142
+7	user07@naver.com	010-7882-9330	user0107!	문경숙	117
+8	user08@naver.com	010-8287-8108	user0108!	이정숙	26

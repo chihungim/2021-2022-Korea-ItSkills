@@ -1,0 +1,39 @@
+NO	EMAIL	PHONE	PW	NAME	ABOUT	CATEGORY	DELIVERYFEE	MAP
+1	seller01@outlook.com	010-9231-9372	seller0101!	Lavender Bakery&Cafe	저희 가게는 기능 배달 사용자가 선호하는 10대 북쪽 버클리에 위치한 베이커리입니다. 우리가 추천이 궁금한가요? 오늘 오후 메뉴에 있는 64가지 메뉴 중, Eclairs는 가장 많이 주문되는 항목 중 하나입니다.	1	2000	78
+2	seller02@outlook.com	010-5794-1153	seller0102!	Crumbs - 프레시 베이크 쿠키 & 디저트	$ • Desserts • Bakery • Ice Cream + Frozen Yogurt	2	1000	81
+3	seller03@outlook.com	010-1195-7910	seller0103!	앨리스 스트리스 베이커리 카페	North Berkely에서 가장 인기있는 베이커리 카페 10개 중 하나 입니다. 가장 잘팔리는 에그-타르트 부터 시그니처 베이글 샌드위치와 적절하게 어우러지는 트레이드(R) 트렌드 앨리스 드링크를 만나보세요	1	4900	82
+4	seller04@outlook.com	010-5672-4847	seller0104!	킹-핀 도넛	$ • 미국식 • 조식 및 브런치 • 디저트 • 알레르기 방지	1	1500	190
+5	seller05@outlook.com	010-9477-9611	seller0105!	서드-컬쳐 베이커리	$ • 미국식 • 조식 및 브런치 • 디저트 • 알레르기 방지 2701 Eighth St, 버클리, CA 94710	1	1900	69
+6	seller06@outlook.com	010-3021-4051	seller0106!	스미슨 아이스크림 (버클리)	$ • 아이스크림 및 냉동 요구르트 • 디저트 • 컴포트 푸드 1812 University Ave, Unit A, Berkeley, CA 9470	2	500	85
+7	seller07@outlook.com	010-3826-2722	seller0107!	Humphry Slocombe Ice Cream (Berkeley)	재미있는 사실 : Humphry Slocombe Ice Cream은 버클리에서 가장 인기있는 것 중 하나 인 밀크티를 제공합니다. Humphry Slocombe 아이스크림 고객에게 여기서 무엇을 주문해야하는지 물어 보시겠습니까?	2	0	16
+8	seller08@outlook.com	010-8658-2520	seller0108!	제니의 화려한 아이스크림	$ • 아이스크림 및 냉동 요구르트 • 디저트	2	0	113
+9	seller09@outlook.com	010-1188-7272	seller0109!	덴마크의 맛	이것은 Uber Eats의 Alameda에서 베이커리 테이크 아웃으로 가장 인기있는 3 곳 중 하나입니다. 고객에게 여기서 무엇을 주문해야하는지 물어 보시겠습니까? 오늘 오후의 메뉴에있는 39 가지 중 트	2	2900	50
+10	seller10@outlook.com	010-3240-6243	seller0110!	Stop and Shop Market		3	3000	22
+11	seller11@outlook.com	010-6194-6555	seller0111!	7-Eleven		3	3000	52
+12	seller12@outlook.com	010-8483-1530	seller0112!	Valero (12th St)		3	2400	72
+13	seller13@outlook.com	010-7426-3902	seller0113!	Uncle Wong’s Restaurant	$ • 중국식 • 아시아 식 • 가족 친화적	4	4400	101
+14	seller14@outlook.com	010-3534-3112	seller0114!	Yang Chow Restaurant		4	2400	148
+15	seller15@outlook.com	010-8778-5487	seller0115!	Sichuan Style Restaurant	이 지점은 North Berkeley 배달 지점에서 가장 많이 주문 된 10 곳 중 하나입니다. 누군가에게 여기서 가장 좋은 것이 무엇인지 물어볼 수 있기를 바랍니다. 마파 두부는 95 가지 메뉴 중 가장 많이 판매된 메뉴 중 하나입니다.	4	0	225
+16	seller16@outlook.com	010-6025-6342	seller0116!	청두 스타일 레스토랑	이 장소는 버클리에서 가장 인기있는 배송 장소 중 하나가 아니라 가장 많은 주문을받은 도시에서 3대 중국음식점  중 하나입니다. 찜밥은 오늘 저녁에 가장 많이 주문되는 품목 중 하나입니다.	4	2900	41
+17	seller17@outlook.com	010-2303-2584	seller0117!	쇼군 일본 스시 & 그릴	오클랜드 전역에서 가장 인기있는 배달 장소 중 하나를 찾았습니다. 오늘 저녁에 메뉴에서 가장 인기있는 항목 중 하나를 맛보고 싶습니까? 교자를 주문하거나 가장 일반적으로 함께 주문되는 메뉴입니다.	5	500	181
+18	seller18@outlook.com	010-1865-8772	seller0118!	긴자 일본식 레스토랑	사용자가 가장 많이 주문하는 10 개의 Jack London Square 명소 중 하나를보고 계십니다. 사용자들 사이에서 가장 인기있는 상품 중 하나이며, 도시락과 된장국 조합은 오늘 저녁에 함께 주문하는 가장 많이 주문하는 조합중 하나입니다.	5	1400	157
+19	seller19@outlook.com	010-1913-9970	seller0119!	IZZA - 오클랜드		5	0	146
+20	seller20@outlook.com	010-2405-4902	seller0120!	KoJa's Kitchen	메뉴에서 가장 좋은 것이 무엇인지 궁금하십니까? 갈비 덮밥은 메뉴 23 개 중 가장 많이 주문되는 품목 중 하나이며, 가미카제 튀김과 오리지널 코자 두 가지는 오늘 오후에 함께 주문하는 가장 많이 주문하는 메뉴입니다.	5	3000	200
+21	seller21@outlook.com	010-5581-4120	seller0121!	Las Cabañas Mexican Grill & Taqueria	이 장소는 버클리에서 가장 인기있는 배달 장소 중 하나입니다. 여기에서 인기있는 것이 무엇인지 궁금하다면 메뉴의 79 개 중 슈퍼 나초가 가장 많이 주문되고 일반 타코와 슈퍼 부리 토가 가장 판매됩니다.	6	500	110
+22	seller22@outlook.com	010-8957-9781	seller0122!	칩톨레 멕시칸 그릴	이 장소는 버클리에서 가장 인기있는 멕시코 배달 장소 3 곳 중 하나입니다. 여기서 가장 좋은 것이 무엇인지 궁금하십니까? 샐러드는 41 가지 메뉴 중 가장 인기있는 아이템 중 하나이며, 오늘은 Oregon에서 유기농으로 재배되는 채소가 들어오는 날입니다!	6	0	105
+23	seller23@outlook.com	010-6470-2359	seller0123!	Los Cantaros Taqueria	오늘 저녁 메뉴에있는 83 가지 메뉴 중 치킨 부리 토가 가장 많이 주문되고 멕시코 시티 타코와 스테이크 부리 토가 가장 일반적으로 함께 주문되는 두 가지 품목 중 하나입니다. • $ • 멕시코	6	2400	107
+24	seller24@outlook.com	010-7786-5694	seller0124!	MC도날드	$ • American • Fast Food • Burgers	7	1900	169
+25	seller25@outlook.com	010-8283-9961	seller0125!	Sizzler	여기서 추천하는 것이 무엇인지 궁금하십니까? Steak and Lobster는 사용자가 가장 많이 주문하는 것 중 하나이며 Specialty Lemonades와 Steak 및 Italian Herb Chicken은 오늘 저녁에 함께 주문하는 항목 중 두 가지입니다.	7	100	15
+26	seller26@gmail.com	010-4303-3220	seller0126!	제커리's 시카코 피자	이 장소는 매우 인기가있어서 실제로 노스 버클리에서 가장 많이 주문 된 10 곳 중 하나입니다. 오늘 저녁에 여기에서 주문하는 것이 가장 좋은 것이 무엇인지 궁금 할 것입니다. 57 개의 메뉴를 골라보세요.	7	2000	218
+27	seller27@gmail.com	010-5300-2102	seller0127!	Popeyes	이 장소는 너무 좋아서 버클리 전체에서 가장 인기있는 패스트 푸드 배달 장소 3 곳 중 하나입니다. 메뉴에서 가장 좋은 것이 무엇인지 누군가에게 물어보고 싶습니까?	7	1400	222
+28	seller28@gmail.com	010-8513-1214	seller0128!	Denny's (1776 Powell Street)	이 장소는 매우 좋아서 에머리 빌 전체에서 가장 인기있는 패스트 푸드 배달 장소 3 곳 중 하나입니다. 여기서 추천하는 것이 무엇인지 궁금하십니까? T-Bone Steak & Eggs는 사용자가 가장 많이 주문하는 메뉴입니다.	7	1500	151
+29	seller29@gmail.com	010-9917-7918	seller0129!	Wendy's	Jr. 베이컨 치즈 버거는 기능 배달 사용자들 사이에서 가장 인기있는 상품 중 하나이며,이 늦은 밤에 함께 주문하는 가장 일반적인 두 가지는 프렌치 프라이와 스파이시 치킨 샌드위치입니다. • $ • 미국식 • 페스트 푸드 • 프랜차이즈	7	6900	136
+30	seller30@gmail.com	010-2824-2383	seller0130!	헝가리 잭	여기에서 무엇이 인기가 있는지 궁금하십니까? Whopper Meal은 115 개의 메뉴 중 가장 많이 주문 된 품목 중 하나이며 Impossible Whopper와 Spicy Crispy Chicken Sandwich는 오늘 저녁에 함께 주문하는 가장 일반적인 메뉴입니다.	7	0	150
+31	seller31@gmail.com	010-3838-8054	seller0131!	Jong Ga House	이곳은 오클랜드에서 가장 인기있는 배달 장소 중 하나 일뿐만 아니라 가장 많은 주문을받은 도시에서 한국 3 대 테이크 아웃 장소 중 하나이기도합니다. 여기가 왜이렇게 인기 있는지 알아봐야 합니다. Kimchi Ddukbagi는 가장 많이 주문되는 보편적인 메뉴입니다.	8	2000	48
+32	seller32@gmail.com	010-7881-9318	seller0132!	서울 곰탕	한식 • 아시아 식 • 바베큐 • 알레르기 방지 3801 Telegraph Ave, Oakland, CA 94609	8	0	138
+33	seller33@gmail.com	010-9147-3046	seller0133!	O.B. Town Chicken	훌륭한 선택입니다. O.B. 타운 치킨은 오클랜드에서 가장 인기있는 배송지 중 하나가 아니라 주문량이 가장 많은 한국 3 대 배송지 중 하나입니다. 오늘 저녁 고토에서 가장 인기있는 메뉴 중 하나입니다.	8	0	24
+34	seller34@gmail.com	010-9824-8974	seller0134!	Korean BBQ		8	0	176
+35	seller35@gmail.com	010-9352-6457	seller0135!	Hancook		8	0	20
+36	seller36@gmail.com	010-3557-6633	seller0136!	FRUITVALE BOTTLES & LIQUOR	이 늦은 밤에 여기에서 인기있는 것이 무엇인지 궁금하십니까? FRUITVALE BOTTLES & LIQUOR 고객은 전체 메뉴에서 가장 인기있는 항목 중 하나 인 hennessy vs를 말할 수 있습니다. • $$ • 주류 • 주류	9	2000	129
+37	seller37@gmail.com	010-3854-2794	seller0137!	Jackson's Wines & Spirits		9	9000	43
+38	seller38@gmail.com	010-3420-2315	seller0138!	Monument Wines and Spirits		9	15900	61

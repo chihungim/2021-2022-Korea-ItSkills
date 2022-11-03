@@ -1,0 +1,6 @@
+gr_no,gr_name,gr_criteria
+1,일반,0
+2,VIP,5
+3,RVIP,10
+4,VVIP,15
+5,SVIP,20

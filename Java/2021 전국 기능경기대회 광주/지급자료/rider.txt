@@ -1,0 +1,8 @@
+NO	EMAIL	PHONE	PW	NAME	MAP
+1	rider01@daum.net	010-9580-2294	rider0101!	윤보선	213
+2	rider02@daum.net	010-8847-6712	rider0102!	한근조	86
+3	rider03@daum.net	010-5646-5771	rider0103!	주요한	195
+4	rider04@daum.net	010-2809-3087	rider0104!	정일협	45
+5	rider05@daum.net	010-4552-2986	rider0105!	엄상섭	80
+6	rider06@daum.net	010-8119-1032	rider0106!	조병욱	172
+7	rider07@daum.net	010-7917-5436	rider0107!	민관식	31
